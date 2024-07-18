@@ -1,0 +1,65 @@
+** Philip, Adam Schmidt, Kory
+- Web Game
+
+
+
+** Mauricio & Fernanda
+Online tutoring platform
+Discord like social media
+- nodejs
+- Django
+
+
+** Andrew & Jen & Thomas
+Django network analyzer
+data analysis
+
+
+
+** Daniel & Kimberly
+-- Django
+-- review products
+
+
+** Ricardo
+-- Django
+-- Financial / stock monitoring
+
+
+
+** James
+- Online store  / social media
+automotive parts
+-- React
+-- Firebase??
+
+
+** George
+-- Clasified ads
+django
+
+
+** Roneisha
+-- Book recomendation / reviews site
+React
+
+
+
+** Rami
+- Store 
+React + Django
+django rest framework
+
+
+
+** Will
+C-trader
+Django
+
+
+
+
+-- ON the api, can you upload pictures??
+
+
+

@@ -1,0 +1,20 @@
+.home {
+    min-height: 90vh;
+    background-color: #dedcdf;
+}
+
+.home h2 {
+    color: darkcyan;
+}
+
+.home .book {
+    display: inline-block;
+    width: 300px;
+    border: 1px solid #6a6a6a;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.home .book img {
+    width: 298px;
+}
